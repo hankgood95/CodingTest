@@ -14,7 +14,7 @@ public class Run {
 	
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		Run a = new Run();
+		Run temp = new Run();
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
